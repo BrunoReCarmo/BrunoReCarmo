@@ -58,10 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BrunoReCarmo/BrunoReCarmo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-carmo-bb7450227/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
